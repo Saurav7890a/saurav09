@@ -1,0 +1,21 @@
+body  {
+  background-image: url("Banner.jpg");size: device ;
+  border-bottom-color:blue;
+}
+h1{
+  background-image: url("nature.jpeg");
+  background-color:White;
+ font-size: 15px;
+ border-radius: 5px;
+ font-color:black;
+}
+img{
+  border-radius: 8px;
+}
+h2{
+  background-image: url("nature.jpeg");
+  background-color:White;
+ font-size: 30px;
+ border-radius: 5px;
+ font-color:white;
+}
