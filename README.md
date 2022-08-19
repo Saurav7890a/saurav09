@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-  <link rel="stylesheet" href="HTML.css"/>
+
   <h1>HOME OF MEMORIES</h1>
 <a href="https://www.facebook.com/profile.php?id=100070434865170"><img src="Hacker.jpg"height="200px"width="150px"></a>
 <a href="https://filmy4wap.loan"><img src="781179.jpg"height="200px"width="150px"></a>
