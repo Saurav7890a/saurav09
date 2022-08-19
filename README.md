@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8=" ?>
-<!docktype html>
 <html>
 <head>
-<title>MY GALLERY</title
 </head>
 <body>
   <link rel="stylesheet" href="HTML.css"/>
